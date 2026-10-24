@@ -1,7 +1,7 @@
 {
-  "versionName": "0.5.6",
-  "versionCode": 2013,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.6/JEJAKRUTE-Pratinjau-v0.5.6-arm64.apk",
-  "notes": "JEJAKRUTE v0.5.6 — Karakter Replay 3D kini 60 FPS: pose langkah digandakan jadi 8 frame per karakter dan mesin putar berjalan pada ticker 16 ms, sehingga langkah dan gerakan menyusuri trek sama-sama halus.",
+  "versionName": "0.5.7",
+  "versionCode": 2014,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.7/JEJAKRUTE-Pratinjau-v0.5.7-arm64.apk",
+  "notes": "JEJAKRUTE v0.5.7 — Replay kini di atas PETA ASLI (OpenStreetMap) di kedua tab, karakter berjalan menempel di peta, plus PROFIL ELEVASI tersinkron yang bisa diketuk/geser untuk melompat ke titik tanjakan. Ubin peta butuh internet pada pratinjau ini.",
   "mandatory": false
 }
