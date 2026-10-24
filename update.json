@@ -1,7 +1,7 @@
 {
-  "versionName": "0.5.0",
-  "versionCode": 2007,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.0/JEJAKRUTE-Pratinjau-v0.5.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.5.0 — GPS ASLI + RENDER 2D/3D + KARTU STRAVA. Rekam kini memakai GPS perangkat (izin lokasi akan diminta; uji di luar ruangan agar sinyal terkunci, mode Simulasi tetap ada untuk uji indoor). Ringkasan punya tombol Replay dari trek sendiri, Render 3D mesin (kamera mengikuti trek), dan Kartu Bagikan gaya Strava (latar hitam, trek oranye, wordmark JEJAKRUTE) yang bisa dibagikan sebagai gambar. Batas: perekaman jalan selama aplikasi terbuka; layanan latar penuh tahap berikut.",
+  "versionName": "0.5.1",
+  "versionCode": 2008,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.1/JEJAKRUTE-Pratinjau-v0.5.1-arm64.apk",
+  "notes": "JEJAKRUTE v0.5.1 — Kartu bagikan kini gaya JEJAKRUTE sendiri (latar identitas, trek mint, profil elevasi, pace) dan tab Replay 3D disederhanakan: peta tetap 2D, hanya karakter yang 3D mengikuti trek.",
   "mandatory": false
 }
