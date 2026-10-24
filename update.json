@@ -1,7 +1,7 @@
 {
-  "versionName": "0.5.3",
-  "versionCode": 2010,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.3/JEJAKRUTE-Pratinjau-v0.5.3-arm64.apk",
-  "notes": "JEJAKRUTE v0.5.3 — Karakter 3D sungguhan: figur artikulasi dari balok 3D yang berjalan (kaki, lengan, tongkat mengayun) dan menghadap arah rute saat Replay 3D diputar. Peta tetap 2D.",
+  "versionName": "0.5.4",
+  "versionCode": 2011,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.4/JEJAKRUTE-Pratinjau-v0.5.4-arm64.apk",
+  "notes": "JEJAKRUTE v0.5.4 — Figur Replay 3D diganti mini karakter gaya PRD (sprite dari lembar karakter terkunci): berdiri di titik putar, membal halus, dan membalik badan mengikuti arah jalan. Tidak ada lagi figur dengan kaki lepas.",
   "mandatory": false
 }
