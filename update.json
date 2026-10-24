@@ -1,7 +1,7 @@
 {
-  "versionName": "0.5.9",
-  "versionCode": 2016,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.9/JEJAKRUTE-Pratinjau-v0.5.9-arm64.apk",
-  "notes": "JEJAKRUTE v0.5.9 \u2014 PERBAIKAN PETA: versi sebelumnya menampilkan gambar \"Access blocked\" dari server peta karena jalur pengambilan ubin internet tidak membawa identitas aplikasi (User-Agent) dan zoom peta tidak dikunci ke level bawaan. Kini penyedia ubin memakai jalur resmi ber-User-Agent dan zoom ubin dikunci ke level 13-15 yang tersedia offline \u2014 di Sibayak & Sibuatan peta tampil dari bawaan aplikasi di semua tingkat zoom, tanpa internet.",
+  "versionName": "0.6.0",
+  "versionCode": 2017,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.6.0/JEJAKRUTE-Pratinjau-v0.6.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.6.0 \u2014 SISTEM UNDUH PETA OFFLINE yang sebenarnya (usulan pemilik produk, mencontoh aplikasi peta offline pendakian): paket peta per gunung kini DIUNDUH DARI DALAM APLIKASI sebelum berangkat (Pengaturan \u2192 Peta Offline) \u2014 ubin peta dasar zoom 13-15 + berkas jalur GPX tersimpan di ponsel, lengkap dengan progres unduhan, batal, hapus, dan bagikan GPX. Setelah terpasang, peta tampil penuh tanpa internet. Paket bundel lama dibuang total (terbukti seluruh isinya gambar blokir server). Peta Navigasi: lencana status paket + perkiraan sisa jarak & waktu tempuh mengikuti jalur. Tersedia 5 paket pilot: Sibayak, Sibuatan, Pusuk Buhit, Sorik Marapi, Bukit Gundul.",
   "mandatory": false
 }
