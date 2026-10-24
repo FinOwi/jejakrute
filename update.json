@@ -1,7 +1,7 @@
 {
-  "versionName": "0.11.0",
-  "versionCode": 2022,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.11.0/JEJAKRUTE-Pratinjau-v0.11.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.11.0 \u2014 EKSPOR & IMPOR GPX: (1) Ekspor: di halaman Ringkasan Aktivitas kini ada tombol \"Ekspor GPX \u2014 Bagikan Berkas Rute\" \u2014 rekamanmu menjadi berkas GPX 1.1 standar (koordinat + elevasi + waktu tiap titik) yang bisa dibuka di aplikasi peta/olahraga lain atau disimpan sebagai cadangan. (2) Impor: di halaman Rekam ada tombol \"Impor GPX\u2026\" \u2014 pilih berkas GPX dari penyimpanan (dari aplikasi lain, unduhan, atau kiriman teman), rutenya terbuka dengan statistik jarak/titik/kenaikan elevasi, bisa dibuka di Peta Navigasi, diputar Replay 2D/3D-nya, dan dibagikan ulang. Rute impor ditandai jelas sebagai belum terverifikasi JEJAKRUTE. Pengurai GPX lolos 3 tes otomatis termasuk berkas ber-namespace dari aplikasi lain.",
+  "versionName": "0.12.0",
+  "versionCode": 2023,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.12.0/JEJAKRUTE-Pratinjau-v0.12.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.12.0 \u2014 JEJAKRUTE KINI MUNCUL SEBAGAI PEMBUKA BERKAS GPX: aplikasi kini terdaftar di Android sebagai pembuka berkas .gpx. Ketuk tautan/berkas GPX di browser (mis. situs pmpa.astacala.org), pengelola berkas, atau menu Bagikan dari aplikasi lain \u2014 JEJAKRUTE kini ikut ditawarkan di daftar \"Buka Dengan\" di samping aplikasi peta lain, dan rutenya langsung terbuka di halaman Rute GPX (statistik, peta navigasi, Replay). Terdaftar untuk tipe application/gpx+xml, application/xml, text/xml, dan application/octet-stream, tautan web berakhiran .gpx, serta berbagi (SEND). Pendaftaran terverifikasi terbaca di manifes final aplikasi.",
   "mandatory": false
 }
