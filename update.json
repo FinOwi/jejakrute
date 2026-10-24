@@ -1,7 +1,7 @@
 {
-  "versionName": "0.12.0",
-  "versionCode": 2023,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.12.0/JEJAKRUTE-Pratinjau-v0.12.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.12.0 \u2014 JEJAKRUTE KINI MUNCUL SEBAGAI PEMBUKA BERKAS GPX: aplikasi kini terdaftar di Android sebagai pembuka berkas .gpx. Ketuk tautan/berkas GPX di browser (mis. situs pmpa.astacala.org), pengelola berkas, atau menu Bagikan dari aplikasi lain \u2014 JEJAKRUTE kini ikut ditawarkan di daftar \"Buka Dengan\" di samping aplikasi peta lain, dan rutenya langsung terbuka di halaman Rute GPX (statistik, peta navigasi, Replay). Terdaftar untuk tipe application/gpx+xml, application/xml, text/xml, dan application/octet-stream, tautan web berakhiran .gpx, serta berbagi (SEND). Pendaftaran terverifikasi terbaca di manifes final aplikasi.",
+  "versionName": "0.13.0",
+  "versionCode": 2024,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.13.0/JEJAKRUTE-Pratinjau-v0.13.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.13.0 \u2014 ETA PER POS BERBASIS ELEVASI (aturan Naismith): perkiraan waktu tempuh tidak lagi tempo datar 3 km/jam. Kini dihitung dari jarak + tanjakan sebenarnya (datar 4,5 km/jam + 1 jam per 550 m naik; turunan landai memotong waktu, turunan curam menambah). Muncul di: (1) Peta Navigasi \u2014 ETA ke akhir jalur plus ETA ke pos berikutnya dari posisimu; (2) Peta Topografi PMTiles \u2014 ETA sisa jalur dari titik terdekatmu; (3) daftar pos Jalur Naga Lingga Sibuatan \u2014 ETA kumulatif dari Posko Registrasi di tiap shelter sampai Puncak Pilar, dengan catatan bahwa angka ini patokan perencanaan (tempo asli bergantung kondisi, beban, cuaca). Rumus ETA teruji unit test.",
   "mandatory": false
 }
