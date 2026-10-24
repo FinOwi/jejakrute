@@ -1,7 +1,7 @@
 {
-  "versionName": "0.9.0",
-  "versionCode": 2020,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.9.0/JEJAKRUTE-Pratinjau-v0.9.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.9.0 \u2014 PETA TOPOGRAFI 2D DARI PAKET PMTiles RESMI (Sibuatan): halaman Gunung Sibuatan kini membuka peta topografi vektor offline penuh dari paket olahan JEJAKRUTE sendiri \u2014 kontur 25 m dari DEM Copernicus (garis mayor tiap 100 m), jalan desa, sungai, guna lahan, dan label tempat \u2014 dirender langsung dari berkas PMTiles (bukan lagi ubin raster dari tile.openstreetmap.org yang dilarang kebijakan OSM untuk pemakaian offline). Jalur pendakian mint + penanda pos bernomor + titik GPS biru + sisa jarak & perkiraan waktu ke akhir jalur. Di halaman Peta Offline kini ada kartu Paket Resmi PMTiles Sibuatan (0,6 MB) yang bisa diunduh dari hosting JEJAKRUTE; salinan bawaannya juga tertanam di aplikasi. Gunung lain menyusul paket demi paket; sistem ubin lama ditandai jelas sebagai interim.",
+  "versionName": "0.10.0",
+  "versionCode": 2021,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.10.0/JEJAKRUTE-Pratinjau-v0.10.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.10.0 \u2014 REKAM TETAP JALAN WALAU LAYAR MATI (foreground service): perekaman GPS kini memakai layanan latar resmi Android. Saat merekam, muncul notifikasi menetap \"JEJAKRUTE merekam aktivitasmu\" dan sistem menjaga perekaman tetap hidup walau layar mati atau kamu membuka aplikasi lain \u2014 inilah cara aplikasi lari/pendakian bekerja. Jeda atau selesaikan rekaman untuk menghentikan layanannya. Aplikasi kini juga meminta izin notifikasi (Android 13+) agar tanda layanan itu tampil; menolaknya tidak menghentikan perekaman. Saran uji: mulai rekam, kunci layar 5-10 menit sambil berjalan, lalu buka lagi \u2014 jumlah titik harus terus bertambah selama layar mati.",
   "mandatory": false
 }
