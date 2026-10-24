@@ -1,7 +1,7 @@
 {
-  "versionName": "0.10.0",
-  "versionCode": 2021,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.10.0/JEJAKRUTE-Pratinjau-v0.10.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.10.0 \u2014 REKAM TETAP JALAN WALAU LAYAR MATI (foreground service): perekaman GPS kini memakai layanan latar resmi Android. Saat merekam, muncul notifikasi menetap \"JEJAKRUTE merekam aktivitasmu\" dan sistem menjaga perekaman tetap hidup walau layar mati atau kamu membuka aplikasi lain \u2014 inilah cara aplikasi lari/pendakian bekerja. Jeda atau selesaikan rekaman untuk menghentikan layanannya. Aplikasi kini juga meminta izin notifikasi (Android 13+) agar tanda layanan itu tampil; menolaknya tidak menghentikan perekaman. Saran uji: mulai rekam, kunci layar 5-10 menit sambil berjalan, lalu buka lagi \u2014 jumlah titik harus terus bertambah selama layar mati.",
+  "versionName": "0.11.0",
+  "versionCode": 2022,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.11.0/JEJAKRUTE-Pratinjau-v0.11.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.11.0 \u2014 EKSPOR & IMPOR GPX: (1) Ekspor: di halaman Ringkasan Aktivitas kini ada tombol \"Ekspor GPX \u2014 Bagikan Berkas Rute\" \u2014 rekamanmu menjadi berkas GPX 1.1 standar (koordinat + elevasi + waktu tiap titik) yang bisa dibuka di aplikasi peta/olahraga lain atau disimpan sebagai cadangan. (2) Impor: di halaman Rekam ada tombol \"Impor GPX\u2026\" \u2014 pilih berkas GPX dari penyimpanan (dari aplikasi lain, unduhan, atau kiriman teman), rutenya terbuka dengan statistik jarak/titik/kenaikan elevasi, bisa dibuka di Peta Navigasi, diputar Replay 2D/3D-nya, dan dibagikan ulang. Rute impor ditandai jelas sebagai belum terverifikasi JEJAKRUTE. Pengurai GPX lolos 3 tes otomatis termasuk berkas ber-namespace dari aplikasi lain.",
   "mandatory": false
 }
