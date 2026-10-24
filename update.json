@@ -1,7 +1,7 @@
 {
-  "versionName": "0.14.0",
-  "versionCode": 2025,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.14.0/JEJAKRUTE-Pratinjau-v0.14.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.14.0 \u2014 PAKET RESMI PMTiles LENGKAP 5 GUNUNG PILOT + KURASI MENDALAM 4 GUNUNG: Sibayak, Pusuk Buhit, Sorik Marapi, dan Bukit Gundul kini punya paket peta topografi resmi (vektor + kontur DEM 25 m + jalur kurasi) seperti Sibuatan \u2014 unduh di Pengaturan > Peta Offline atau buka dari halaman lokasi (unduh sekali, lalu offline penuh). Data jalur diganti hasil kurasi mendalam Okt 2026 (minimal dua sumber, konflik dicatat terbuka). KOREKSI PENTING: pin Sibayak & Bukit Gundul di katalog selama ini salah tempat \u2014 kini di puncak sebenarnya (Sibayak Deleng Pintau 3.24778/98.50111; Bukit Gundul 2.9259/98.5347, 1.940 m). STATUS TERKINI tampil di aplikasi: Sibayak DITUTUP SEMENTARA 15 Okt-15 Nov 2026; Sorik Marapi DITUTUP (Level II Waspada sejak Apr 2026). Terrain 3D DEM asli kini tersedia untuk kelima gunung pilot.",
+  "versionName": "0.15.0",
+  "versionCode": 2026,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.15.0/JEJAKRUTE-Pratinjau-v0.15.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.15.0 \u2014 BACKEND AKUN AKTIF + PAKET PETA v0.2 DIPERBAIKI: (1) Masuk dengan Email kini sungguhan (tautan masuk dari server JEJAKRUTE di Supabase) \u2014 profil, kontak darurat, dan rekaman tersinkron ke akunmu; mode tamu lokal tetap jalan. (2) Rekaman kini tersimpan di jurnal lokal HP dan terunggah sebagai GPX privat saat kamu masuk. (3) Batas Waktu Turun tercermin ke server: penjaga server memeriksa tiap 5 menit walau HP mati. (4) Saklar baru di Privasi: Bagikan Otomatis GPX ke Komunitas (salinan publik terpotong 200 m di kedua ujung). (5) PERBAIKAN PETA: paket Pusuk Buhit, Sibayak, Sorik Marapi, Bukit Gundul v0.1 rusak layer (semua garis terwarnai mint) \u2014 sudah dibangun ulang sebagai v0.2; hapus paket lama di Peta Offline lalu unduh ulang. Seluruh sistem diaudit sebelum rilis: audit REST server 15/15, tes aplikasi 8/8.",
   "mandatory": false
 }
