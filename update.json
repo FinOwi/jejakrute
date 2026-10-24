@@ -1,0 +1,7 @@
+{
+  "versionName": "0.3.0",
+  "versionCode": 2003,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.3.0/JEJAKRUTE-Pratinjau-v0.3-arm64.apk",
+  "notes": "JEJAKRUTE v0.3.0 — Navigasi bawah diperbaiki total (tidak lagi tertutup bar sistem HP) dengan desain baru, dan AUTO UPDATE kini aktif: pembaruan berikutnya akan ditawarkan langsung dari dalam aplikasi, tanpa unduh manual lagi.",
+  "mandatory": false
+}
