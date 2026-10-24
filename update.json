@@ -1,7 +1,7 @@
 {
-  "versionName": "0.5.8",
-  "versionCode": 2015,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.8/JEJAKRUTE-Pratinjau-v0.5.8-arm64.apk",
-  "notes": "JEJAKRUTE v0.5.8 \u2014 PETA NAVIGASI untuk dipakai saat mendaki: tombol \"Peta Jalur & Navigasi\" di halaman detail gunung dan \"Peta Posisi & Jalur\" di layar Rekam. Peta wilayah Sibayak & Sibuatan kini BAWAAN aplikasi (ubin offline zoom 13-15) sehingga tampil tanpa internet; ada garis jalur kurasi, penanda pos bernomor, posisi GPS langsung, dan sisa jarak ke puncak. Replay memakai peta yang sama.",
+  "versionName": "0.5.9",
+  "versionCode": 2016,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.9/JEJAKRUTE-Pratinjau-v0.5.9-arm64.apk",
+  "notes": "JEJAKRUTE v0.5.9 \u2014 PERBAIKAN PETA: versi sebelumnya menampilkan gambar \"Access blocked\" dari server peta karena jalur pengambilan ubin internet tidak membawa identitas aplikasi (User-Agent) dan zoom peta tidak dikunci ke level bawaan. Kini penyedia ubin memakai jalur resmi ber-User-Agent dan zoom ubin dikunci ke level 13-15 yang tersedia offline \u2014 di Sibayak & Sibuatan peta tampil dari bawaan aplikasi di semua tingkat zoom, tanpa internet.",
   "mandatory": false
 }
