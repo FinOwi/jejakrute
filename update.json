@@ -1,7 +1,7 @@
 {
-  "versionName": "0.7.0",
-  "versionCode": 2018,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.7.0/JEJAKRUTE-Pratinjau-v0.7.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.7.0 \u2014 KARAKTER REPLAY 3D DIHAPUS (keputusan pemilik produk): tidak ada lagi sprite/pemilih karakter. Replay 3D kini adalah PETA 3D seperti aplikasi peta offline pendakian: terrain dibangun dari data elevasi rekaman sendiri (punggungan mengikuti jalur, lereng menurun menjauhinya), titik hijau = posisi putar, bendera oranye = titik akhir; bisa diseret untuk memutar & memiringkan dan kamera berputar perlahan saat diputar. Terrain saat ini rekonstruksi dari trek; versi berbasis DEM asli adalah langkah berikutnya mengikuti PRD Sumber Data Peta.",
+  "versionName": "0.8.0",
+  "versionCode": 2019,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.8.0/JEJAKRUTE-Pratinjau-v0.8.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.8.0 \u2014 TERRAIN 3D DARI DEM ASLI (versi gratis, tanpa Mapbox): grid elevasi Copernicus DEM GLO-30 (data terbuka ESA/Airbus) untuk Gunung Sibayak & Gunung Sibuatan kini tertanam di aplikasi (\u00b1104 KB per gunung). Replay 3D untuk trek di kedua gunung itu kini memakai topografi sesungguhnya (lembah, punggungan, kawah asli), bukan rekonstruksi jalur; rekaman di luar area DEM tetap memakai mode rekonstruksi dengan keterangan yang membedakan keduanya. Baru: layar \"Lihat Gunung dalam 3D \u2014 DEM Asli\" di detail Sibayak & Sibuatan \u2014 putar & miringkan gunungnya sebelum mendaki, lengkap dengan jalur, titik pos, dan daftar pos.",
   "mandatory": false
 }
