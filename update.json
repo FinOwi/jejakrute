@@ -1,7 +1,7 @@
 {
-  "versionName": "0.5.5",
-  "versionCode": 2012,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.5/JEJAKRUTE-Pratinjau-v0.5.5-arm64.apk",
-  "notes": "JEJAKRUTE v0.5.5 — Karakter di Replay 3D sekarang BERJALAN: animasi siklus langkah 4 frame dari karakter PRD yang sama, berganti mengikuti putaran trek dan membalik badan mengikuti arah jalan.",
+  "versionName": "0.5.6",
+  "versionCode": 2013,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.6/JEJAKRUTE-Pratinjau-v0.5.6-arm64.apk",
+  "notes": "JEJAKRUTE v0.5.6 — Karakter Replay 3D kini 60 FPS: pose langkah digandakan jadi 8 frame per karakter dan mesin putar berjalan pada ticker 16 ms, sehingga langkah dan gerakan menyusuri trek sama-sama halus.",
   "mandatory": false
 }
