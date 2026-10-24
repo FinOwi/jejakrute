@@ -1,7 +1,7 @@
 {
-  "versionName": "0.5.1",
-  "versionCode": 2008,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.1/JEJAKRUTE-Pratinjau-v0.5.1-arm64.apk",
-  "notes": "JEJAKRUTE v0.5.1 — Kartu bagikan kini gaya JEJAKRUTE sendiri (latar identitas, trek mint, profil elevasi, pace) dan tab Replay 3D disederhanakan: peta tetap 2D, hanya karakter yang 3D mengikuti trek.",
+  "versionName": "0.5.2",
+  "versionCode": 2009,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.2/JEJAKRUTE-Pratinjau-v0.5.2-arm64.apk",
+  "notes": "JEJAKRUTE v0.5.2 — Trek lebih setia: titik GPS tiap 2 meter, saringan lompatan GPS (akurasi buruk & kecepatan mustahil dibuang), garis rute diperhalus di Replay 2D, karakter 3D, dan kartu bagikan. Coba rekaman 200–500 m di luar ruangan untuk melihat bedanya.",
   "mandatory": false
 }
