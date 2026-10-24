@@ -1,7 +1,7 @@
 {
-  "versionName": "0.6.0",
-  "versionCode": 2017,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.6.0/JEJAKRUTE-Pratinjau-v0.6.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.6.0 \u2014 SISTEM UNDUH PETA OFFLINE yang sebenarnya (usulan pemilik produk, mencontoh aplikasi peta offline pendakian): paket peta per gunung kini DIUNDUH DARI DALAM APLIKASI sebelum berangkat (Pengaturan \u2192 Peta Offline) \u2014 ubin peta dasar zoom 13-15 + berkas jalur GPX tersimpan di ponsel, lengkap dengan progres unduhan, batal, hapus, dan bagikan GPX. Setelah terpasang, peta tampil penuh tanpa internet. Paket bundel lama dibuang total (terbukti seluruh isinya gambar blokir server). Peta Navigasi: lencana status paket + perkiraan sisa jarak & waktu tempuh mengikuti jalur. Tersedia 5 paket pilot: Sibayak, Sibuatan, Pusuk Buhit, Sorik Marapi, Bukit Gundul.",
+  "versionName": "0.7.0",
+  "versionCode": 2018,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.7.0/JEJAKRUTE-Pratinjau-v0.7.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.7.0 \u2014 KARAKTER REPLAY 3D DIHAPUS (keputusan pemilik produk): tidak ada lagi sprite/pemilih karakter. Replay 3D kini adalah PETA 3D seperti aplikasi peta offline pendakian: terrain dibangun dari data elevasi rekaman sendiri (punggungan mengikuti jalur, lereng menurun menjauhinya), titik hijau = posisi putar, bendera oranye = titik akhir; bisa diseret untuk memutar & memiringkan dan kamera berputar perlahan saat diputar. Terrain saat ini rekonstruksi dari trek; versi berbasis DEM asli adalah langkah berikutnya mengikuti PRD Sumber Data Peta.",
   "mandatory": false
 }
