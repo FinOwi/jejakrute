@@ -1,7 +1,7 @@
 {
-  "versionName": "0.3.1",
-  "versionCode": 2004,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.3.1/JEJAKRUTE-Pratinjau-v0.3.1-arm64.apk",
-  "notes": "JEJAKRUTE v0.3.1 — UPDATE UJI AUTO UPDATE. Ini pembaruan percobaan untuk membuktikan mekanisme update dari dalam aplikasi bekerja. Penanda versinya: footer Beranda kini menuliskan v0.3.1, dan Pengaturan > Tentang juga v0.3.1.",
+  "versionName": "0.3.2",
+  "versionCode": 2005,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.3.2/JEJAKRUTE-Pratinjau-v0.3.2-arm64.apk",
+  "notes": "JEJAKRUTE v0.3.2 — PENTING: versi ini memakai kunci tanda tangan rilis permanen yang baru. Bila pemasangan dari dialog ini ditolak Android (konflik paket), copot dulu JEJAKRUTE lama lalu pasang v0.3.2 dari berkas Drive resmi — CUKUP SATU KALI; setelah itu semua update berjalan dari dalam aplikasi. Isi baru: Rekam Bebas ala Strava (5 jenis aktivitas, statistik adaptif, rute opsional) dan perbaikan tampilan Replay 3D.",
   "mandatory": false
 }
