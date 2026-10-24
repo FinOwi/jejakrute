@@ -1,7 +1,7 @@
 {
-  "versionName": "0.4.0",
-  "versionCode": 2006,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.4.0/JEJAKRUTE-Pratinjau-v0.4.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.4.0 — SEMUA FITUR DIAKTIFKAN untuk pengujian: Edit Profil, tautan sosial, tautan metode masuk, unduh/hapus Peta Offline, sakelar Notifikasi & Privasi, sunting Info Darurat & kontak, ubah jam Batas Waktu Turun, salin tautan Live Share & profil, Buat Ajakan dan Usulan Lokasi berfungsi penuh, room chat bisa kirim titik lokasi & foto, kartu wisata dan tombol Rekam di halaman lokasi membuka layar yang benar. Silakan coba semuanya dan laporkan yang rusak.",
+  "versionName": "0.5.0",
+  "versionCode": 2007,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.5.0/JEJAKRUTE-Pratinjau-v0.5.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.5.0 — GPS ASLI + RENDER 2D/3D + KARTU STRAVA. Rekam kini memakai GPS perangkat (izin lokasi akan diminta; uji di luar ruangan agar sinyal terkunci, mode Simulasi tetap ada untuk uji indoor). Ringkasan punya tombol Replay dari trek sendiri, Render 3D mesin (kamera mengikuti trek), dan Kartu Bagikan gaya Strava (latar hitam, trek oranye, wordmark JEJAKRUTE) yang bisa dibagikan sebagai gambar. Batas: perekaman jalan selama aplikasi terbuka; layanan latar penuh tahap berikut.",
   "mandatory": false
 }
