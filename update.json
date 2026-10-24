@@ -1,7 +1,7 @@
 {
-  "versionName": "0.15.0",
-  "versionCode": 2026,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.15.0/JEJAKRUTE-Pratinjau-v0.15.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.15.0 \u2014 BACKEND AKUN AKTIF + PAKET PETA v0.2 DIPERBAIKI: (1) Masuk dengan Email kini sungguhan (tautan masuk dari server JEJAKRUTE di Supabase) \u2014 profil, kontak darurat, dan rekaman tersinkron ke akunmu; mode tamu lokal tetap jalan. (2) Rekaman kini tersimpan di jurnal lokal HP dan terunggah sebagai GPX privat saat kamu masuk. (3) Batas Waktu Turun tercermin ke server: penjaga server memeriksa tiap 5 menit walau HP mati. (4) Saklar baru di Privasi: Bagikan Otomatis GPX ke Komunitas (salinan publik terpotong 200 m di kedua ujung). (5) PERBAIKAN PETA: paket Pusuk Buhit, Sibayak, Sorik Marapi, Bukit Gundul v0.1 rusak layer (semua garis terwarnai mint) \u2014 sudah dibangun ulang sebagai v0.2; hapus paket lama di Peta Offline lalu unduh ulang. Seluruh sistem diaudit sebelum rilis: audit REST server 15/15, tes aplikasi 8/8.",
+  "versionName": "0.16.0",
+  "versionCode": 2027,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.16.0/JEJAKRUTE-Pratinjau-v0.16.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.16.0 \u2014 PROFIL CUSTOM + PERBAIKAN PAKET PETA: (1) Username kini bisa diganti di Edit Profil (3-20 karakter, unik per akun, tersimpan ke server; header profil, tautan profil, postingan, dan room mengikuti username barumu). (2) Foto profil & foto sampul CUSTOM: unggah dari galeri di Edit Profil (otomatis dikecilkan & tersinkron ke akun); foto bawaan tetap bisa dipilih. (3) PERBAIKAN PAKET PETA: paket Pusuk Buhit, Sibayak, Sorik Marapi, dan Bukit Gundul dibangun ulang dengan format arsip yang benar (versi sebelumnya ditolak aplikasi: \"Unclustered archives\"). Hapus keempat paket lama di Peta Offline lalu unduh ulang \u2014 server sudah berisi berkas yang benar. Audit pra-rilis: tes aplikasi 13/13 (termasuk uji buka paket memakai pembaca aplikasi sendiri), analisis 0 error, audit server lolos.",
   "mandatory": false
 }
