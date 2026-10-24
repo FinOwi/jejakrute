@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.0",
-  "versionCode": 2024,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.13.0/JEJAKRUTE-Pratinjau-v0.13.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.13.0 \u2014 ETA PER POS BERBASIS ELEVASI (aturan Naismith): perkiraan waktu tempuh tidak lagi tempo datar 3 km/jam. Kini dihitung dari jarak + tanjakan sebenarnya (datar 4,5 km/jam + 1 jam per 550 m naik; turunan landai memotong waktu, turunan curam menambah). Muncul di: (1) Peta Navigasi \u2014 ETA ke akhir jalur plus ETA ke pos berikutnya dari posisimu; (2) Peta Topografi PMTiles \u2014 ETA sisa jalur dari titik terdekatmu; (3) daftar pos Jalur Naga Lingga Sibuatan \u2014 ETA kumulatif dari Posko Registrasi di tiap shelter sampai Puncak Pilar, dengan catatan bahwa angka ini patokan perencanaan (tempo asli bergantung kondisi, beban, cuaca). Rumus ETA teruji unit test.",
+  "versionName": "0.14.0",
+  "versionCode": 2025,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.14.0/JEJAKRUTE-Pratinjau-v0.14.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.14.0 \u2014 PAKET RESMI PMTiles LENGKAP 5 GUNUNG PILOT + KURASI MENDALAM 4 GUNUNG: Sibayak, Pusuk Buhit, Sorik Marapi, dan Bukit Gundul kini punya paket peta topografi resmi (vektor + kontur DEM 25 m + jalur kurasi) seperti Sibuatan \u2014 unduh di Pengaturan > Peta Offline atau buka dari halaman lokasi (unduh sekali, lalu offline penuh). Data jalur diganti hasil kurasi mendalam Okt 2026 (minimal dua sumber, konflik dicatat terbuka). KOREKSI PENTING: pin Sibayak & Bukit Gundul di katalog selama ini salah tempat \u2014 kini di puncak sebenarnya (Sibayak Deleng Pintau 3.24778/98.50111; Bukit Gundul 2.9259/98.5347, 1.940 m). STATUS TERKINI tampil di aplikasi: Sibayak DITUTUP SEMENTARA 15 Okt-15 Nov 2026; Sorik Marapi DITUTUP (Level II Waspada sejak Apr 2026). Terrain 3D DEM asli kini tersedia untuk kelima gunung pilot.",
   "mandatory": false
 }
