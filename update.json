@@ -1,7 +1,7 @@
 {
-  "versionName": "0.8.0",
-  "versionCode": 2019,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.8.0/JEJAKRUTE-Pratinjau-v0.8.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.8.0 \u2014 TERRAIN 3D DARI DEM ASLI (versi gratis, tanpa Mapbox): grid elevasi Copernicus DEM GLO-30 (data terbuka ESA/Airbus) untuk Gunung Sibayak & Gunung Sibuatan kini tertanam di aplikasi (\u00b1104 KB per gunung). Replay 3D untuk trek di kedua gunung itu kini memakai topografi sesungguhnya (lembah, punggungan, kawah asli), bukan rekonstruksi jalur; rekaman di luar area DEM tetap memakai mode rekonstruksi dengan keterangan yang membedakan keduanya. Baru: layar \"Lihat Gunung dalam 3D \u2014 DEM Asli\" di detail Sibayak & Sibuatan \u2014 putar & miringkan gunungnya sebelum mendaki, lengkap dengan jalur, titik pos, dan daftar pos.",
+  "versionName": "0.9.0",
+  "versionCode": 2020,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.9.0/JEJAKRUTE-Pratinjau-v0.9.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.9.0 \u2014 PETA TOPOGRAFI 2D DARI PAKET PMTiles RESMI (Sibuatan): halaman Gunung Sibuatan kini membuka peta topografi vektor offline penuh dari paket olahan JEJAKRUTE sendiri \u2014 kontur 25 m dari DEM Copernicus (garis mayor tiap 100 m), jalan desa, sungai, guna lahan, dan label tempat \u2014 dirender langsung dari berkas PMTiles (bukan lagi ubin raster dari tile.openstreetmap.org yang dilarang kebijakan OSM untuk pemakaian offline). Jalur pendakian mint + penanda pos bernomor + titik GPS biru + sisa jarak & perkiraan waktu ke akhir jalur. Di halaman Peta Offline kini ada kartu Paket Resmi PMTiles Sibuatan (0,6 MB) yang bisa diunduh dari hosting JEJAKRUTE; salinan bawaannya juga tertanam di aplikasi. Gunung lain menyusul paket demi paket; sistem ubin lama ditandai jelas sebagai interim.",
   "mandatory": false
 }
