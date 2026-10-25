@@ -1,7 +1,7 @@
 {
-  "versionName": "0.18.0",
-  "versionCode": 2031,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.18.0/JEJAKRUTE-Pratinjau-v0.18.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.18.0 — UPLOAD FOTO & REPLAY: (1) Buat Postingan kini bisa mengunggah FOTO ASLI dari galerimu — sampai 4 foto per postingan, dengan pratinjau & hapus per foto sebelum terbit. Foto tampil asli milikmu (bukan foto stok lagi), diperkecil otomatis, tersimpan di aplikasi, dan postinganmu TETAP tampil setelah aplikasi dibuka ulang. Bila kamu sudah masuk akun, foto ikut terunggah ke server sebagai cadangan. (2) Postingan REPLAY: pilih satu rekaman dari jurnalmu, lalu postingan menampilkan kartu replay berisi peta rute + statistik (jarak, durasi, tanjakan) dan tombol putar yang membuka Replay 2D & Render 3D dari trek rekamanmu sendiri. (3) Sesuai keputusan: opsi VIDEO DIHAPUS total — postingan hanya boleh Foto atau Replay, tidak ada jalur unggah video dari galeri. (4) Tab Replay di profil kini menampilkan replay aslimu (dari postingan replay + rekaman jurnal terbarumu), bukan contoh demo. Audit pra-rilis: analisis 0 error, tes 45/45.",
+  "versionName": "0.18.1",
+  "versionCode": 2032,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.18.1/JEJAKRUTE-Pratinjau-v0.18.1-arm64.apk",
+  "notes": "JEJAKRUTE v0.18.1 — FOTO FEED ALA INSTAGRAM & POSTINGAN DI PROFIL: (1) Ukuran foto di Feed Komunitas kini seperti Instagram: foto memenuhi lebar kartu penuh dari tepi ke tepi — tidak ada lagi bar putih/kosong di sisi foto — dan bingkainya mengikuti rasio asli fotomu yang dijepit ala Instagram (potret maksimal 4:5, lanskap maksimal 1,91:1, di antaranya tampil pada rasio aslinya). (2) Postingan berisi 2–4 foto kini menjadi galeri geser ala Instagram, lengkap dengan titik indikator dan penghitung \"n/4\" di pojok foto. (3) Postinganmu kini juga tampil di tab Postingan pada profilmu (terbaru di depan): ketuk tile foto untuk melihat fotonya layar penuh beserta caption, ketuk tile replay (bertanda ▶) untuk langsung memutar replay dari rekaman sumbernya. Audit pra-rilis: analisis 0 error, tes 55/55.",
   "mandatory": false
 }
