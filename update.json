@@ -1,7 +1,7 @@
 {
-  "versionName": "0.17.0",
-  "versionCode": 2028,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.17.0/JEJAKRUTE-Pratinjau-v0.17.0-arm64.apk",
-  "notes": "JEJAKRUTE v0.17.0 — EDITOR FOTO PROFIL: (1) Foto profil diperbesar 60px → 88px dengan ring gradien mint-emas. (2) Editor \"Sesuaikan Foto\" baru: geser (pan), cubit (pinch), slider zoom, rotasi 90°, dan filter Asli/Hangat/Sejuk/Terang/Mono. (3) Output: foto profil 512×512 dan foto sampul 1400×788. Audit pra-rilis: analisis 0 error, tes aplikasi 17/17, audit server 15/15.",
+  "versionName": "0.17.1",
+  "versionCode": 2029,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.17.1/JEJAKRUTE-Pratinjau-v0.17.1-arm64.apk",
+  "notes": "JEJAKRUTE v0.17.1 — PERBAIKAN EDITOR FOTO & PAKET PETA: (1) Editor Sesuaikan Foto ditulis ulang: foto kini memenuhi bingkai dan terpusat sejak dibuka, bisa digeser/dicubit/slider zoom dengan benar (sebelumnya foto tampil kecil di pojok dan tidak bisa digeser). Filter, Putar 90°, dan panduan lingkaran tetap ada. (2) Paket peta offline: aplikasi kini memeriksa keaslian paket (sidik jari berkas). Paket lama/rusak yang tersimpan di HP akan dihapus OTOMATIS saat aplikasi dibuka, lalu cukup buka peta gunung dan ketuk Unduh Paket Peta sekali — tidak perlu hapus manual lagi. Unduhan juga diverifikasi agar tidak ada lagi berkas terpotong yang tersimpan. Audit pra-rilis: analisis 0 error, tes 27/27.",
   "mandatory": false
 }
