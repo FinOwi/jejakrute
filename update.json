@@ -1,7 +1,7 @@
 {
-  "versionName": "0.17.1",
-  "versionCode": 2029,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.17.1/JEJAKRUTE-Pratinjau-v0.17.1-arm64.apk",
-  "notes": "JEJAKRUTE v0.17.1 — PERBAIKAN EDITOR FOTO & PAKET PETA: (1) Editor Sesuaikan Foto ditulis ulang: foto kini memenuhi bingkai dan terpusat sejak dibuka, bisa digeser/dicubit/slider zoom dengan benar (sebelumnya foto tampil kecil di pojok dan tidak bisa digeser). Filter, Putar 90°, dan panduan lingkaran tetap ada. (2) Paket peta offline: aplikasi kini memeriksa keaslian paket (sidik jari berkas). Paket lama/rusak yang tersimpan di HP akan dihapus OTOMATIS saat aplikasi dibuka, lalu cukup buka peta gunung dan ketuk Unduh Paket Peta sekali — tidak perlu hapus manual lagi. Unduhan juga diverifikasi agar tidak ada lagi berkas terpotong yang tersimpan. Audit pra-rilis: analisis 0 error, tes 27/27.",
+  "versionName": "0.17.2",
+  "versionCode": 2030,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.17.2/JEJAKRUTE-Pratinjau-v0.17.2-arm64.apk",
+  "notes": "JEJAKRUTE v0.17.2 — FOTO PROFIL TERGANTI & KONSISTEN: (1) Foto profil kini LANGSUNG terganti begitu disimpan dari editor Sesuaikan Foto — sebelumnya foto lama tetap tampil sampai aplikasi dibuka ulang, karena berkas foto selalu ditulis ke nama yang sama dan cache gambar Flutter menyajikan bytes lama. Kini setiap simpan memakai nama berkas berversi dan UI membaca path baru seketika; berlaku juga untuk foto sampul. (2) Foto yang sama tampil konsisten di semua tempat: header profil, Edit Profil, postingan/status milikmu di Feed, baris Bagikan Status di Beranda, dan Kartu Bagikan kini menampilkan foto profilmu (dengan nama & username) — semua membaca satu sumber foto profil yang sama, bukan foto stok. Audit pra-rilis: analisis 0 error, tes 35/35.",
   "mandatory": false
 }
