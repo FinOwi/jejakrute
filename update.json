@@ -1,7 +1,7 @@
 {
-  "versionName": "0.17.2",
-  "versionCode": 2030,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.17.2/JEJAKRUTE-Pratinjau-v0.17.2-arm64.apk",
-  "notes": "JEJAKRUTE v0.17.2 — FOTO PROFIL TERGANTI & KONSISTEN: (1) Foto profil kini LANGSUNG terganti begitu disimpan dari editor Sesuaikan Foto — sebelumnya foto lama tetap tampil sampai aplikasi dibuka ulang, karena berkas foto selalu ditulis ke nama yang sama dan cache gambar Flutter menyajikan bytes lama. Kini setiap simpan memakai nama berkas berversi dan UI membaca path baru seketika; berlaku juga untuk foto sampul. (2) Foto yang sama tampil konsisten di semua tempat: header profil, Edit Profil, postingan/status milikmu di Feed, baris Bagikan Status di Beranda, dan Kartu Bagikan kini menampilkan foto profilmu (dengan nama & username) — semua membaca satu sumber foto profil yang sama, bukan foto stok. Audit pra-rilis: analisis 0 error, tes 35/35.",
+  "versionName": "0.18.0",
+  "versionCode": 2031,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.18.0/JEJAKRUTE-Pratinjau-v0.18.0-arm64.apk",
+  "notes": "JEJAKRUTE v0.18.0 — UPLOAD FOTO & REPLAY: (1) Buat Postingan kini bisa mengunggah FOTO ASLI dari galerimu — sampai 4 foto per postingan, dengan pratinjau & hapus per foto sebelum terbit. Foto tampil asli milikmu (bukan foto stok lagi), diperkecil otomatis, tersimpan di aplikasi, dan postinganmu TETAP tampil setelah aplikasi dibuka ulang. Bila kamu sudah masuk akun, foto ikut terunggah ke server sebagai cadangan. (2) Postingan REPLAY: pilih satu rekaman dari jurnalmu, lalu postingan menampilkan kartu replay berisi peta rute + statistik (jarak, durasi, tanjakan) dan tombol putar yang membuka Replay 2D & Render 3D dari trek rekamanmu sendiri. (3) Sesuai keputusan: opsi VIDEO DIHAPUS total — postingan hanya boleh Foto atau Replay, tidak ada jalur unggah video dari galeri. (4) Tab Replay di profil kini menampilkan replay aslimu (dari postingan replay + rekaman jurnal terbarumu), bukan contoh demo. Audit pra-rilis: analisis 0 error, tes 45/45.",
   "mandatory": false
 }
