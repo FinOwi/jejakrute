@@ -1,6 +1,6 @@
 {
-  "versionCode": 2054,
-  "versionName": "0.29.0",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.29.0/JEJAKRUTE-Pratinjau-v0.29.0-arm64.apk",
-  "notes": "UI Soft-Kit: permukaan aplikasi kini timbul & tenggelam lembut (kartu, pencarian, tab, profil) \u2014 warna, fitur, dan data tetap sama. Termasuk perbaikan kecepatan muat v0.27.4."
+  "versionCode": 2055,
+  "versionName": "0.30.0",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.30.0/JEJAKRUTE-Pratinjau-v0.30.0-arm64.apk",
+  "notes": "Basmi akun siluman zgg.pendaki (persona demo bawaan dihapus), foto profil & sampul pulih sendiri sesudah instal ulang, seluruh emoticon/glyph teks diganti ikon Material, efek soft-kit diperkuat (bevel gradien + bayangan dua arah)."
 }
