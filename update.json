@@ -1,7 +1,7 @@
 {
-  "versionName": "0.27.3",
-  "versionCode": 2052,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.27.3/JEJAKRUTE-Pratinjau-v0.27.3-arm64.apk",
-  "notes": "## Yang berubah di v0.27.3\n\n**Tautan media sosial kini tampil di profil.** Instagram, TikTok, Threads, dan Facebook yang kamu isi di profilmu sekarang benar-benar terlihat oleh pengguna lain — tampil sebagai chip yang bisa diketuk di halaman profilmu, tepat di bawah bio, dan membuka halaman platform tersebut. Profilmu sendiri menampilkan deretan yang persis sama seperti yang dilihat publik.\n\nSebelumnya tautan-tautan itu sudah tersimpan dengan benar di server, tetapi tidak pernah ditampilkan di halaman profil untuk akun lain. Tidak ada perubahan server pada rilis ini.",
+  "versionName": "0.27.4",
+  "versionCode": 2053,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.27.4/JEJAKRUTE-Pratinjau-v0.27.4-arm64.apk",
+  "notes": "## Yang berubah di v0.27.4\n\n**Feed dan profil sekarang dimuat jauh lebih cepat.** Versi ini tidak mengubah tampilan maupun fitur — yang dirombak adalah cara aplikasi mengambil data dari server:\n\n- **Permintaan data kini berjalan paralel.** Sebelumnya feed menunggu empat permintaan yang berantre satu-satu, dan halaman profil pengguna lain bisa menunggu sampai sembilan. Kini permintaan yang tidak saling bergantung dikirim bersamaan — halaman profil tidak lagi terkunci lama di balik spinner.\n- **Profil yang pernah dibuka tampil seketika.** Saat kamu membuka lagi profil yang sama dalam satu sesi, hasil terakhir langsung ditampilkan sambil data segar dimuat di belakang.\n- **Statistik dihitung di server.** Jumlah pengikut dan yang diikuti kini memakai query hitung — aplikasi tidak lagi menarik seluruh daftar relasi hanya untuk menghitungnya.\n- **Foto tersimpan di perangkat.** Foto postingan, avatar, dan sampul kini memakai cache di disk, jadi tidak diunduh ulang setiap kamu membuka halaman yang sama.\n\nTidak ada perubahan data, akun, atau server pada rilis ini.",
   "mandatory": false
 }
