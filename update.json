@@ -1,7 +1,7 @@
 {
-  "versionName": "0.27.2",
-  "versionCode": 2051,
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.27.2/JEJAKRUTE-Pratinjau-v0.27.2-arm64.apk",
-  "notes": "## Yang berubah di v0.27.2\n\n**Profil kini tampil sama dari akun mana pun.** Bio dan badge yang kamu pasang di profilmu sekarang benar-benar terlihat oleh pengguna lain: halaman profil pendaki lain menampilkan nama, bio, dan seluruh badge terpasang pemiliknya persis seperti data server terbaru (sebelumnya bio tidak pernah tampil ke akun lain, dan badge hanya tampil sebagian).\n\n**Grid postingan profil ala Instagram.** Postingan di halaman profil — profilmu sendiri maupun profil pendaki lain — kini tampil sebagai grid 3 kolom persegi (rasio 1:1) berisi thumbnail foto/replay, menggantikan daftar kartu penuh. Ketuk satu tile untuk membuka postingan lengkapnya dengan suka & komentar, sama seperti di Beranda.\n\nTidak ada perubahan server pada rilis ini.",
+  "versionName": "0.27.3",
+  "versionCode": 2052,
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.27.3/JEJAKRUTE-Pratinjau-v0.27.3-arm64.apk",
+  "notes": "## Yang berubah di v0.27.3\n\n**Tautan media sosial kini tampil di profil.** Instagram, TikTok, Threads, dan Facebook yang kamu isi di profilmu sekarang benar-benar terlihat oleh pengguna lain — tampil sebagai chip yang bisa diketuk di halaman profilmu, tepat di bawah bio, dan membuka halaman platform tersebut. Profilmu sendiri menampilkan deretan yang persis sama seperti yang dilihat publik.\n\nSebelumnya tautan-tautan itu sudah tersimpan dengan benar di server, tetapi tidak pernah ditampilkan di halaman profil untuk akun lain. Tidak ada perubahan server pada rilis ini.",
   "mandatory": false
 }
