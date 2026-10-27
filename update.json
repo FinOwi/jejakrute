@@ -1,8 +1,8 @@
 {
-  "versionCode": 2059,
-  "versionName": "0.32.0",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.32.0/JEJAKRUTE-Pratinjau-v0.32.0-arm64.apk",
-  "notes": "Baru: Replay 3D Mode Satelit — citra satelit asli dilapiskan ke terrain 3D (unduh sekali, sesudahnya offline). Saklar Terrain | Satelit di Replay & peta 3D. Plus perbaikan server tombol Ikuti Rute (sudah aktif, tanpa update).",
+  "versionCode": 2060,
+  "versionName": "0.32.1",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.32.1/JEJAKRUTE-Pratinjau-v0.32.1-arm64.apk",
+  "notes": "Label tab 'Untukmu — FYP' kini bernama 'Feed Komunitas' (di Beranda, tab umpan, dan teks pendamping) — lebih jelas dan sesuai isinya. Tidak ada perubahan perilaku lain.",
   "wajib": false,
   "mandatory": false
 }
