@@ -1,8 +1,8 @@
 {
-  "versionCode": 2060,
-  "versionName": "0.32.1",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.32.1/JEJAKRUTE-Pratinjau-v0.32.1-arm64.apk",
-  "notes": "Label tab 'Untukmu — FYP' kini bernama 'Feed Komunitas' (di Beranda, tab umpan, dan teks pendamping) — lebih jelas dan sesuai isinya. Tidak ada perubahan perilaku lain.",
+  "versionCode": 2061,
+  "versionName": "0.33.0",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.33.0/JEJAKRUTE-Pratinjau-v0.33.0-universal.apk",
+  "notes": "JEJAKRUTE kini UNIVERSAL: satu berkas APK yang sama bisa dipasang di ponsel 64-bit maupun 32-bit (Android 7.0 ke atas) — tidak lagi khusus satu jenis ponsel. Isi dan fitur sama seperti v0.32.1 (termasuk label Feed Komunitas & Replay 3D mode Satelit). Ukuran berkas lebih besar karena memuat dua arsitektur sekaligus.",
   "wajib": false,
   "mandatory": false
 }
