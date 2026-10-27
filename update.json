@@ -1,8 +1,8 @@
 {
-  "versionCode": 2061,
-  "versionName": "0.33.0",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.33.0/JEJAKRUTE-Pratinjau-v0.33.0-universal.apk",
-  "notes": "JEJAKRUTE kini UNIVERSAL: satu berkas APK yang sama bisa dipasang di ponsel 64-bit maupun 32-bit (Android 7.0 ke atas) — tidak lagi khusus satu jenis ponsel. Isi dan fitur sama seperti v0.32.1 (termasuk label Feed Komunitas & Replay 3D mode Satelit). Ukuran berkas lebih besar karena memuat dua arsitektur sekaligus.",
+  "versionCode": 2062,
+  "versionName": "0.33.1",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.33.1/JEJAKRUTE-v0.33.1-universal.apk",
+  "notes": "Label 'Pratinjau' dihapus dari aplikasi & nama berkas. Baru: dialog konfirmasi sebelum mulai merekam (cek mode & sumber GPS, pengingat baterai) — Jeda/Lanjut tetap sekali tap. Tulisan versi di Beranda, Profil, dan Tentang dibersihkan dari nomor versi basi.",
   "wajib": false,
   "mandatory": false
 }
