@@ -1,8 +1,8 @@
 {
-  "versionCode": 2071,
-  "versionName": "0.34.7",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.7/JEJAKRUTE-v0.34.7-universal.apk",
-  "notes": "Penerima peringatan Batas Waktu Turun kini dibatasi 2–4 orang sesuai keputusan PRD: editor kontak menolak kontak ke-5 dan status penerima di tab Aman lebih jujur. Tautan Live Share kini memakai domain resmi jejakrute.my.id.",
+  "versionCode": 2072,
+  "versionName": "0.34.8",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.8/JEJAKRUTE-v0.34.8-universal.apk",
+  "notes": "Replay 3D rasa peta: kamera mengikuti posisimu, cubit untuk zoom, tombol Lihat Semua & Ikuti, label Satelit kini terbaca jelas.",
   "wajib": false,
   "mandatory": false
 }
