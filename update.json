@@ -1,8 +1,8 @@
 {
-  "versionCode": 2065,
-  "versionName": "0.34.1",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.1/JEJAKRUTE-v0.34.1-universal.apk",
-  "notes": "Perbaikan: badge kini tampil bergambar di tab Lencana profil — ada kartu gelarmu (segel Level + statistik + syarat berikutnya), Badge Gunung Terverifikasi sebagai gambar asli, dan jalan pintas ke Koleksi Badge lengkap.",
+  "versionCode": 2066,
+  "versionName": "0.34.2",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.2/JEJAKRUTE-v0.34.2-universal.apk",
+  "notes": "Badge kini PNG transparan: seluruh 75 badge dibuang latar gelapnya, ukuran dinormalisasi, dan sembilan potongan badge diperbaiki utuh (Penemu Wisata ×10, segel Level, Mahawu, Gandang Dewata, Merbabu, Talang).",
   "wajib": false,
   "mandatory": false
 }
