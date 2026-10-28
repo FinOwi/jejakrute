@@ -1,8 +1,8 @@
 {
-  "versionCode": 2070,
-  "versionName": "0.34.6",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.6/JEJAKRUTE-v0.34.6-universal.apk",
-  "notes": "Semua badge kini bisa dipasang di samping nama (51 Badge Gunung + 18 Badge Kontribusi & Khusus, termasuk Perintis, Anggota Awal, dan Moderator), dan badge di profil tidak lagi hilang sesudah aplikasi ditutup — pill profil kini pulih otomatis dari server setiap aplikasi dibuka.",
+  "versionCode": 2071,
+  "versionName": "0.34.7",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.7/JEJAKRUTE-v0.34.7-universal.apk",
+  "notes": "Penerima peringatan Batas Waktu Turun kini dibatasi 2–4 orang sesuai keputusan PRD: editor kontak menolak kontak ke-5 dan status penerima di tab Aman lebih jujur. Tautan Live Share kini memakai domain resmi jejakrute.my.id.",
   "wajib": false,
   "mandatory": false
 }
