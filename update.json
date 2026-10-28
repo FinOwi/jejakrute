@@ -1,8 +1,8 @@
 {
-  "versionCode": 2067,
-  "versionName": "0.34.3",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.3/JEJAKRUTE-v0.34.3-universal.apk",
-  "notes": "Album Badge di Samping Nama kini mengikuti data server asli: badge yang kamu miliki tampil dimiliki, yang belum tetap terkunci — tidak ada lagi badge contoh. Pilihan terpasang juga diingat dengan benar.",
+  "versionCode": 2068,
+  "versionName": "0.34.4",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.4/JEJAKRUTE-v0.34.4-universal.apk",
+  "notes": "Badge di samping nama kini bergambar (bukan cuma teks), dan urutannya bisa kamu atur sendiri dari album Badge di Samping Nama — geser mana yang pertama, kedua, ketiga dengan tombol panah.",
   "wajib": false,
   "mandatory": false
 }
