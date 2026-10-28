@@ -1,8 +1,8 @@
 {
-  "versionCode": 2063,
-  "versionName": "0.33.2",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.33.2/JEJAKRUTE-v0.33.2-universal.apk",
-  "notes": "Perbaikan keamanan: berkas GPX asli dari kontribusi rute kini disimpan privat (hanya pemilik & moderator yang bisa membukanya). Tidak ada perubahan fitur lain.",
+  "versionCode": 2064,
+  "versionName": "0.34.0",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.0/JEJAKRUTE-v0.34.0-universal.apk",
+  "notes": "Baru: Koleksi Badge! 75 badge bergambar asli kini di aplikasi (Pengaturan → Koleksi Badge) — Badge Gunung yang kamu miliki berwarna penuh + hitungan terverifikasi, gelarmu Newbie–Pro dihitung dua jalur, dan album Badge di Samping Nama memakai gambar badge asli.",
   "wajib": false,
   "mandatory": false
 }
