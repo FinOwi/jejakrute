@@ -1,8 +1,8 @@
 {
-  "versionCode": 2068,
-  "versionName": "0.34.4",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.4/JEJAKRUTE-v0.34.4-universal.apk",
-  "notes": "Badge di samping nama kini bergambar (bukan cuma teks), dan urutannya bisa kamu atur sendiri dari album Badge di Samping Nama — geser mana yang pertama, kedua, ketiga dengan tombol panah.",
+  "versionCode": 2069,
+  "versionName": "0.34.5",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.5/JEJAKRUTE-v0.34.5-universal.apk",
+  "notes": "Badge Kontribusi & Khusus kini tercatat resmi di server: Kontributor Rute, Pelapor Kondisi, Penemu Lokasi/Wisata, Perintis, Anggota Awal, Moderator — dihitung otomatis dari aktivitas terverifikasimu dan tampil di Koleksi Badge, tab Lencana, dan profil web.",
   "wajib": false,
   "mandatory": false
 }
