@@ -1,8 +1,8 @@
 {
-  "versionCode": 2072,
-  "versionName": "0.34.8",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.8/JEJAKRUTE-v0.34.8-universal.apk",
-  "notes": "Replay 3D rasa peta: kamera mengikuti posisimu, cubit untuk zoom, tombol Lihat Semua & Ikuti, label Satelit kini terbaca jelas.",
+  "versionCode": 2073,
+  "versionName": "0.34.9",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.9/JEJAKRUTE-v0.34.9-universal.apk",
+  "notes": "Perbaikan bingkai kamera Replay 3D: peta tidak lagi berkumpul di tengah-atas saat mengikuti posisimu di titik tinggi — titik yang diikuti kini stabil di tengah pandangan dan terrain mengisi layar.",
   "wajib": false,
   "mandatory": false
 }
