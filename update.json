@@ -1,8 +1,8 @@
 {
-  "versionCode": 2066,
-  "versionName": "0.34.2",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.2/JEJAKRUTE-v0.34.2-universal.apk",
-  "notes": "Badge kini PNG transparan: seluruh 75 badge dibuang latar gelapnya, ukuran dinormalisasi, dan sembilan potongan badge diperbaiki utuh (Penemu Wisata ×10, segel Level, Mahawu, Gandang Dewata, Merbabu, Talang).",
+  "versionCode": 2067,
+  "versionName": "0.34.3",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.3/JEJAKRUTE-v0.34.3-universal.apk",
+  "notes": "Album Badge di Samping Nama kini mengikuti data server asli: badge yang kamu miliki tampil dimiliki, yang belum tetap terkunci — tidak ada lagi badge contoh. Pilihan terpasang juga diingat dengan benar.",
   "wajib": false,
   "mandatory": false
 }
