@@ -1,8 +1,8 @@
 {
-  "versionCode": 2076,
-  "versionName": "0.34.12",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.12/JEJAKRUTE-v0.34.12-universal.apk",
-  "notes": "Replay rekaman Berkendara kini hidup: karaktermu menyetir mobil atau motor menyusuri rute di peta 2D dan berputar mengikuti arah jalan. Pilih kendaraan (Mobil/Motor) dan karakter (Cowok/Cewek/Hijab) lewat chip di atas peta replay. Layar Rekam tetap 2D seperti biasa dan Replay pendakian tidak berubah sama sekali.",
+  "versionCode": 2077,
+  "versionName": "0.34.13",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.13/JEJAKRUTE-v0.34.13-universal.apk",
+  "notes": "Perbaikan perekaman GPS (temuan uji lapangan 29 Okt): (1) Rekaman tidak lagi terkunci bila GPS belum mengunci — tombol Selesai sekarang menawarkan Tetap Merekam atau Buang Rekaman saat titik belum cukup, bukan jalan buntu. (2) Aliran GPS yang terputus di tengah perekaman kini menyambung ulang otomatis, jadi titik tidak berhenti datang. Tidak ada perubahan fitur lain.",
   "wajib": false,
   "mandatory": false
 }
