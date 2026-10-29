@@ -1,8 +1,8 @@
 {
-  "versionCode": 2074,
-  "versionName": "0.34.10",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.10/JEJAKRUTE-v0.34.10-universal.apk",
-  "notes": "Replay 3D kini punya tampilan Jauh: seluruh rute terlihat dari kejauhan seperti peta gunung utuh, trek menyala lembut, tepi terrain meleleh ke latar. Mode Ikuti tetap tampilan awal.",
+  "versionCode": 2075,
+  "versionName": "0.34.11",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.11/JEJAKRUTE-v0.34.11-universal.apk",
+  "notes": "Baru: jenis aktivitas Berkendara untuk merekam perjalanan kendaraan (ke basecamp, touring, road trip) dengan statistik kecepatan dan filter GPS khusus jalan raya. Rekaman Berkendara tersimpan di Jurnal, bisa di-Replay, diekspor GPX, dan dibagikan sebagai postingan — tidak dihitung untuk Badge Gunung dan tidak diterbitkan sebagai Rute Komunitas pendakian.",
   "wajib": false,
   "mandatory": false
 }
