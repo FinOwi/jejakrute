@@ -1,8 +1,8 @@
 {
-  "versionCode": 2077,
-  "versionName": "0.34.13",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.13/JEJAKRUTE-v0.34.13-universal.apk",
-  "notes": "Perbaikan perekaman GPS (temuan uji lapangan 29 Okt): (1) Rekaman tidak lagi terkunci bila GPS belum mengunci — tombol Selesai sekarang menawarkan Tetap Merekam atau Buang Rekaman saat titik belum cukup, bukan jalan buntu. (2) Aliran GPS yang terputus di tengah perekaman kini menyambung ulang otomatis, jadi titik tidak berhenti datang. Tidak ada perubahan fitur lain.",
+  "versionCode": 2078,
+  "versionName": "0.34.14",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.14/JEJAKRUTE-v0.34.14-universal.apk",
+  "notes": "Perbaikan GPS lanjutan (temuan uji HP 29 Okt): aliran lokasi kini punya tangga cadangan — bila penyedia lokasi gabungan (Google Play) error beruntun seperti yang terjadi di HP pengujian (aliran tidak pernah menghasilkan satu titik pun, jadi jarak & kecepatan tidak jalan), aplikasi otomatis beralih ke LocationManager mentah, lalu ke pengaturan umum akurasi tinggi. Status perekaman juga kini menampilkan error asli aliran GPS agar mudah didiagnosis. Perbaikan rekaman terkunci dari v0.34.13 tetap termasuk.",
   "wajib": false,
   "mandatory": false
 }
