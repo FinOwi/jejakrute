@@ -1,8 +1,8 @@
 {
-  "versionCode": 2078,
-  "versionName": "0.34.14",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.14/JEJAKRUTE-v0.34.14-universal.apk",
-  "notes": "Perbaikan GPS lanjutan (temuan uji HP 29 Okt): aliran lokasi kini punya tangga cadangan — bila penyedia lokasi gabungan (Google Play) error beruntun seperti yang terjadi di HP pengujian (aliran tidak pernah menghasilkan satu titik pun, jadi jarak & kecepatan tidak jalan), aplikasi otomatis beralih ke LocationManager mentah, lalu ke pengaturan umum akurasi tinggi. Status perekaman juga kini menampilkan error asli aliran GPS agar mudah didiagnosis. Perbaikan rekaman terkunci dari v0.34.13 tetap termasuk.",
+  "versionCode": 2079,
+  "versionName": "0.34.15",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.15/JEJAKRUTE-v0.34.15-universal.apk",
+  "notes": "Ekspor Replay kini seperti Replay di aplikasi: rute diputar di atas peta asli OpenStreetMap (bukan kartu polos), ada profil yang terisi mengikuti putaran dan watermark JEJAKRUTE ID. Untuk Berkendara: penanda memakai sprite kendaraan + karakter pilihanmu dan berputar mengikuti arah jalan, statistik ketiganya KECEPATAN dan profilnya Profil Kecepatan — bukan lagi Ketinggian; judul ekspor mengikuti aktivitas (Replay Berkendara). Halaman Replay juga diselaraskan (Berkendara = kecepatan di 2D & 3D). Peta ekspor memakai ubin paket offline bila ada atau diunduh saat ekspor; offline total tetap jalan dengan kartu polos.",
   "wajib": false,
   "mandatory": false
 }
