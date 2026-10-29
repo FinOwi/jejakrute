@@ -1,8 +1,8 @@
 {
-  "versionCode": 2079,
-  "versionName": "0.34.15",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.15/JEJAKRUTE-v0.34.15-universal.apk",
-  "notes": "Ekspor Replay kini seperti Replay di aplikasi: rute diputar di atas peta asli OpenStreetMap (bukan kartu polos), ada profil yang terisi mengikuti putaran dan watermark JEJAKRUTE ID. Untuk Berkendara: penanda memakai sprite kendaraan + karakter pilihanmu dan berputar mengikuti arah jalan, statistik ketiganya KECEPATAN dan profilnya Profil Kecepatan — bukan lagi Ketinggian; judul ekspor mengikuti aktivitas (Replay Berkendara). Halaman Replay juga diselaraskan (Berkendara = kecepatan di 2D & 3D). Peta ekspor memakai ubin paket offline bila ada atau diunduh saat ekspor; offline total tetap jalan dengan kartu polos.",
+  "versionCode": 2080,
+  "versionName": "0.34.16",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.16/JEJAKRUTE-v0.34.16-universal.apk",
+  "notes": "Perbaikan GPS 'kadang bisa, kadang engga': pengawas keheningan baru — bila 25 detik tidak ada titik GPS yang masuk, aplikasi otomatis beralih ke mode GPS cadangan (dulu aliran yang diam membuat rekaman menunggu selamanya). Status layar Rekam kini menampilkan 'GPS belum merespons — beralih ke mode cadangan…' saat peralihan itu terjadi.",
   "wajib": false,
   "mandatory": false
 }
