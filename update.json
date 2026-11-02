@@ -1,8 +1,8 @@
 {
-  "versionCode": 2081,
-  "versionName": "0.34.17",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.17/JEJAKRUTE-v0.34.17-universal.apk",
-  "notes": "Ekspor Video Replay kini bisa dipilih durasinya: 15 dtk, 30 dtk, 1 mnt, atau 2 mnt (di halaman Replay, di atas tombol Ekspor Video). Sebelumnya video ekspor selalu 5 detik berapa pun panjang rekamanmu. Tombol ekspor kini juga menampilkan persen kemajuan selama render.",
+  "versionCode": 2082,
+  "versionName": "0.34.18",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.18/JEJAKRUTE-v0.34.18-universal.apk",
+  "notes": "Perbaikan Replay Berkendara: pemilih Kendaraan (Mobil/Motor) dan Karakter kini muncul juga saat Replay dibuka dari Jurnal, Profil, atau postingan — sebelumnya hanya dari halaman ringkasan rekaman. Statistik Kecepatan dan sprite kendaraan pilihanmu kini tampil dan terekspor dengan benar dari semua jalur.",
   "wajib": false,
   "mandatory": false
 }
