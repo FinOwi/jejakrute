@@ -1,8 +1,8 @@
 {
-  "versionCode": 2087,
-  "versionName": "0.35.4",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.35.4/JEJAKRUTE-v0.35.4-universal.apk",
-  "notes": "Baru: posting Video Replay (publik/privat), Buat Postingan Mode Kanvas, postingan teks di tab Kicau Mania, ubah visibilitas postingan kapan pun, foto HD mengikuti ukuran asli, statistik profil di samping foto, dan pilih foto langsung banyak sekaligus.",
+  "versionCode": 2089,
+  "versionName": "0.35.6",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.35.6/JEJAKRUTE-v0.35.6-universal.apk",
+  "notes": "Perbaikan: GPS rekam tanpa internet jauh lebih cepat mengunci, draf postingan tersimpan otomatis di HP, ganti tema langsung berlaku, kartu Kicau lebih rapi (caption di atas), statistik profil tidak lagi menimpa sampul, dan logo TikTok & Threads kini aslinya.",
   "wajib": false,
   "mandatory": false
 }
