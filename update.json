@@ -1,8 +1,8 @@
 {
-  "versionCode": 2082,
-  "versionName": "0.34.18",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.34.18/JEJAKRUTE-v0.34.18-universal.apk",
-  "notes": "Perbaikan Replay Berkendara: pemilih Kendaraan (Mobil/Motor) dan Karakter kini muncul juga saat Replay dibuka dari Jurnal, Profil, atau postingan — sebelumnya hanya dari halaman ringkasan rekaman. Statistik Kecepatan dan sprite kendaraan pilihanmu kini tampil dan terekspor dengan benar dari semua jalur.",
+  "versionCode": 2087,
+  "versionName": "0.35.4",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.35.4/JEJAKRUTE-v0.35.4-universal.apk",
+  "notes": "Baru: posting Video Replay (publik/privat), Buat Postingan Mode Kanvas, postingan teks di tab Kicau Mania, ubah visibilitas postingan kapan pun, foto HD mengikuti ukuran asli, statistik profil di samping foto, dan pilih foto langsung banyak sekaligus.",
   "wajib": false,
   "mandatory": false
 }
