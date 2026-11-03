@@ -1,8 +1,8 @@
 {
-  "versionCode": 2089,
-  "versionName": "0.35.6",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.35.6/JEJAKRUTE-v0.35.6-universal.apk",
-  "notes": "Perbaikan: GPS rekam tanpa internet jauh lebih cepat mengunci, draf postingan tersimpan otomatis di HP, ganti tema langsung berlaku, kartu Kicau lebih rapi (caption di atas), statistik profil tidak lagi menimpa sampul, dan logo TikTok & Threads kini aslinya.",
+  "versionCode": 2091,
+  "versionName": "0.35.8",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.35.8/JEJAKRUTE-v0.35.8-universal.apk",
+  "notes": "Nama tampil kini mengikuti nama profilmu dan berubah otomatis di semua postingan saat kamu mengganti nama. Plus pagar kuota penyimpanan video komunitas agar tetap gratis.",
   "wajib": false,
   "mandatory": false
 }
