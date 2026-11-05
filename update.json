@@ -1,8 +1,8 @@
 {
-  "versionCode": 2098,
-  "versionName": "0.39.0",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.39.0/JEJAKRUTE-v0.39.0-universal.apk",
-  "notes": "Semua berkas (foto, GPX, avatar, rute) pindah ke penyimpanan R2 — Supabase kini khusus database & login. Pembaruan wajib karena penyimpanan lama segera dipensiunkan.",
+  "versionCode": 2099,
+  "versionName": "0.39.1",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.39.1/JEJAKRUTE-v0.39.1-universal.apk",
+  "notes": "Perbaikan tampil foto postingan lama: semua postingan kini dibaca dari penyimpanan R2 (alamat lama sudah dipensiunkan). Pembaruan wajib.",
   "wajib": true,
   "mandatory": true
 }
