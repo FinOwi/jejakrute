@@ -1,8 +1,8 @@
 {
-  "versionCode": 2097,
-  "versionName": "0.38.0",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.38.0/JEJAKRUTE-v0.38.0-universal.apk",
-  "notes": "Foto & GPX postingan pindah ke penyimpanan R2 (lebih lega, tanpa biaya bandwidth) dan Danau Toba masuk katalog — kini 82 lokasi, sama dengan website.",
-  "wajib": false,
-  "mandatory": false
+  "versionCode": 2098,
+  "versionName": "0.39.0",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.39.0/JEJAKRUTE-v0.39.0-universal.apk",
+  "notes": "Semua berkas (foto, GPX, avatar, rute) pindah ke penyimpanan R2 — Supabase kini khusus database & login. Pembaruan wajib karena penyimpanan lama segera dipensiunkan.",
+  "wajib": true,
+  "mandatory": true
 }
