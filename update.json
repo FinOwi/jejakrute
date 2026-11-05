@@ -1,8 +1,8 @@
 {
-  "versionCode": 2096,
-  "versionName": "0.37.0",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.37.0/JEJAKRUTE-v0.37.0-universal.apk",
-  "notes": "Komentar baru gaya TikTok/Instagram: panel meluncur dari bawah, bisa menyukai komentar dan membalas berurutan. Plus Beranda baru, Pusat Notifikasi, dan pembersihan sisa contoh versi beta.",
+  "versionCode": 2097,
+  "versionName": "0.38.0",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.38.0/JEJAKRUTE-v0.38.0-universal.apk",
+  "notes": "Foto & GPX postingan pindah ke penyimpanan R2 (lebih lega, tanpa biaya bandwidth) dan Danau Toba masuk katalog — kini 82 lokasi, sama dengan website.",
   "wajib": false,
   "mandatory": false
 }
