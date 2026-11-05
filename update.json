@@ -1,8 +1,8 @@
 {
-  "versionCode": 2091,
-  "versionName": "0.35.8",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.35.8/JEJAKRUTE-v0.35.8-universal.apk",
-  "notes": "Nama tampil kini mengikuti nama profilmu dan berubah otomatis di semua postingan saat kamu mengganti nama. Plus pagar kuota penyimpanan video komunitas agar tetap gratis.",
+  "versionCode": 2096,
+  "versionName": "0.37.0",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.37.0/JEJAKRUTE-v0.37.0-universal.apk",
+  "notes": "Komentar baru gaya TikTok/Instagram: panel meluncur dari bawah, bisa menyukai komentar dan membalas berurutan. Plus Beranda baru, Pusat Notifikasi, dan pembersihan sisa contoh versi beta.",
   "wajib": false,
   "mandatory": false
 }
