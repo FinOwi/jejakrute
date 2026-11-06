@@ -1,8 +1,8 @@
 {
-  "versionCode": 2099,
-  "versionName": "0.39.1",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.39.1/JEJAKRUTE-v0.39.1-universal.apk",
-  "notes": "Perbaikan tampil foto postingan lama: semua postingan kini dibaca dari penyimpanan R2 (alamat lama sudah dipensiunkan). Pembaruan wajib.",
+  "versionCode": 2113,
+  "versionName": "0.41.8",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.41.8/JEJAKRUTE-v0.41.8-universal.apk",
+  "notes": "Baru: Replay Berkendara Kota 3D (peta kota 3D, pilihan motor & mobil), ekspor video Kota 3D, dan ekspor/posting video layar penuh 9:16. Pembaruan wajib.",
   "wajib": true,
   "mandatory": true
 }
