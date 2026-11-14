@@ -1,8 +1,8 @@
 {
-  "versionCode": 2113,
-  "versionName": "0.41.8",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.41.8/JEJAKRUTE-v0.41.8-universal.apk",
-  "notes": "Baru: Replay Berkendara Kota 3D (peta kota 3D, pilihan motor & mobil), ekspor video Kota 3D, dan ekspor/posting video layar penuh 9:16. Pembaruan wajib.",
+  "versionCode": 2114,
+  "versionName": "0.41.9",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.41.9/JEJAKRUTE-v0.41.9-universal.apk",
+  "notes": "Perbaikan besar perekaman GPS: notifikasi perekaman kini terlihat, jarak & garis trek jujur saat sinyal hilang (tidak melonjak lagi). Plus Rute Komunitas, Simpan ke Perangkat, ekspor Full HD. Pembaruan wajib.",
   "wajib": true,
   "mandatory": true
 }
