@@ -1,8 +1,8 @@
 {
-  "versionCode": 2114,
-  "versionName": "0.41.9",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.41.9/JEJAKRUTE-v0.41.9-universal.apk",
-  "notes": "Perbaikan besar perekaman GPS: notifikasi perekaman kini terlihat, jarak & garis trek jujur saat sinyal hilang (tidak melonjak lagi). Plus Rute Komunitas, Simpan ke Perangkat, ekspor Full HD. Pembaruan wajib.",
+  "versionCode": 2116,
+  "versionName": "0.41.10",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.41.10/JEJAKRUTE-v0.41.10-universal.apk",
+  "notes": "Pindah server ke Singapore: aplikasi jauh lebih ringan & cepat saat memuat feed, profil, dan rute. Tidak ada perubahan tampilan. Pembaruan wajib agar tetap terhubung.",
   "wajib": true,
   "mandatory": true
 }
