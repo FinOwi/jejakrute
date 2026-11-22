@@ -1,8 +1,8 @@
 {
-  "versionCode": 2116,
-  "versionName": "0.41.10",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.41.10/JEJAKRUTE-v0.41.10-universal.apk",
-  "notes": "Pindah server ke Singapore: aplikasi jauh lebih ringan & cepat saat memuat feed, profil, dan rute. Tidak ada perubahan tampilan. Pembaruan wajib agar tetap terhubung.",
-  "wajib": true,
-  "mandatory": true
+  "versionCode": 2136,
+  "versionName": "0.42.0",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.42.0/JEJAKRUTE-v0.42.0-universal.apk",
+  "notes": "JEJAKRUTE 0.42.0 — Replay Satelit 3D dengan ekspor video, navigasi rute berkendara, Kicau Mania dengan topik, chat rombongan offline yang lebih andal dan aman, halaman Privasi & Kontrol Data baru, serta sinkronisasi otomatis penuh. Berjalan di server Singapore.",
+  "wajib": false,
+  "sha256": "991f1c2215bc79ac22acfc1a1079cd6a73caec56ac1a47030445bc0fd1c40439"
 }
