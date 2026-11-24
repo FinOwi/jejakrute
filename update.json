@@ -1,8 +1,8 @@
 {
-  "versionCode": 2136,
-  "versionName": "0.42.0",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.42.0/JEJAKRUTE-v0.42.0-universal.apk",
-  "notes": "JEJAKRUTE 0.42.0 — Replay Satelit 3D dengan ekspor video, navigasi rute berkendara, Kicau Mania dengan topik, chat rombongan offline yang lebih andal dan aman, halaman Privasi & Kontrol Data baru, serta sinkronisasi otomatis penuh. Berjalan di server Singapore.",
+  "versionCode": 2142,
+  "versionName": "0.42.4",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.42.4/JEJAKRUTE-v0.42.4-universal.apk",
+  "notes": "JEJAKRUTE 0.42.4 — perbaikan peta rombongan & postingan privat.\n\n• Peta rombongan kini memakai mesin peta offline yang sama dengan peta Rekam dan menampilkan posisi antar anggota grup.\n• Lapisan peta jalan diganti (CARTO → Esri): watermark 'API KEY REQUIRED' yang menutupi peta sudah hilang.\n• Gabung chat rombongan di awal lebih mudah — radio tetap menyala sampai rekan pertama tersambung; tombol status Aman/Istirahat/Bantuan/SOS kini instan dengan penjaga anti-spam.\n• Jadikan Privat/Publik untuk postingan foto & replay diperbaiki total: berkas dipindahkan antar ember R2 dan sesi masuk disegarkan otomatis sebelum memanggil server media.",
   "wajib": false,
-  "sha256": "991f1c2215bc79ac22acfc1a1079cd6a73caec56ac1a47030445bc0fd1c40439"
+  "sha256": "3712f32fe108865d91f1d1c26820bb1eedf6611cce6511404070094257830650"
 }
