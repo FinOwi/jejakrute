@@ -1,8 +1,8 @@
 {
-  "versionCode": 2152,
-  "versionName": "0.42.14",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.42.14/JEJAKRUTE-v0.42.14-universal.apk",
-  "notes": "JEJAKRUTE v0.42.14 — pembaruan besar sejak v0.42.4:\n• Tampilan Room grup pendakian diperbarui.\n• Simpan GPX langsung ke perangkat (folder Unduhan/JEJAKRUTE).\n• Privasi trek per rekaman: samarkan 200 m awal & akhir pada salinan yang dibagikan (bawaan hidup, mengikuti setelan privasi).\n• Keamanan obrolan offline (mesh) diperkuat; riwayat obrolan kini terenkripsi.\n• Lokasi usulan komunitas yang disetujui moderator langsung tampil di Jelajah, lengkap dengan garis rutenya di peta.\n• Bagikan Rute Komunitas digabung ke Impor Peta GPX di Jelajah — satu toggle: Import GPX | Bagikan Rute Komunitas.\n• Semua tab kini bisa digulir sampai bawah; tidak ada lagi konten tertimpa bar navigasi.\n• Pemeriksaan integritas (SHA-256) pada unduhan pembaruan.",
+  "versionCode": 2154,
+  "versionName": "0.42.16",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.42.16/JEJAKRUTE-v0.42.16-universal.apk",
+  "notes": "JEJAKRUTE v0.42.16 — pembaruan sejak v0.42.14:\n• Akurasi GPS ditingkatkan: filter penghalus Kalman, penolakan fix kasar/basi/palsu, aliran GPS 1 Hz, dan fusi elevasi (satelit + barometer) — trek lebih jujur, tidak membengkak karena sinyal memantul.\n• Lencana satelit & kualitas GPS kini tampil di layar Rekam; perekaman lebih tahan saat layar terkunci.\n• Keamanan diperkuat: unduhan pembaruan kini diverifikasi paket + sertifikatnya, berkas media obrolan offline diperiksa isinya, tautan sosial anti-phishing.\n• Perbaikan penting: berbagi rute dari lokasi katalog kini tertaut benar ke lokasinya (sebelumnya tautan lokasinya hilang); hapus postingan privat membersihkan berkas yang tepat; rekaman mode Simulasi tidak lagi bocor ke jurnal/cloud.\n• SOS Mesh dan tombol \"Saya Sudah Turun\" kini meminta konfirmasi dulu sebelum terkirim.\n• Ekspor video, kartu bagikan, dan bagikan replay kini menghormati sakelar privasi 200 m awal/akhir trek.\n• Tombol Kartu Bagikan JEJAKRUTE kini memakai warna identitas JEJAKRUTE.\n• Nama berkas GPX sesudah rekam kini memuat username pemilik (mis. jejakrute-zgg-lari.gpx).",
   "wajib": false,
-  "sha256": "d85e7f5da01f6aa00823020983d8838f2f12b69f2097b0d396858e7e66cdb901"
+  "sha256": "7f3868a15c9018c66140142c5e545172eb5772aefbf50ec64ab39bb185c9969f"
 }
