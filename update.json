@@ -1,8 +1,8 @@
 {
-  "versionCode": 2142,
-  "versionName": "0.42.4",
-  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.42.4/JEJAKRUTE-v0.42.4-universal.apk",
-  "notes": "JEJAKRUTE 0.42.4 — perbaikan peta rombongan & postingan privat.\n\n• Peta rombongan kini memakai mesin peta offline yang sama dengan peta Rekam dan menampilkan posisi antar anggota grup.\n• Lapisan peta jalan diganti (CARTO → Esri): watermark 'API KEY REQUIRED' yang menutupi peta sudah hilang.\n• Gabung chat rombongan di awal lebih mudah — radio tetap menyala sampai rekan pertama tersambung; tombol status Aman/Istirahat/Bantuan/SOS kini instan dengan penjaga anti-spam.\n• Jadikan Privat/Publik untuk postingan foto & replay diperbaiki total: berkas dipindahkan antar ember R2 dan sesi masuk disegarkan otomatis sebelum memanggil server media.",
+  "versionCode": 2152,
+  "versionName": "0.42.14",
+  "apkUrl": "https://github.com/FinOwi/jejakrute/releases/download/v0.42.14/JEJAKRUTE-v0.42.14-universal.apk",
+  "notes": "JEJAKRUTE v0.42.14 — pembaruan besar sejak v0.42.4:\n• Tampilan Room grup pendakian diperbarui.\n• Simpan GPX langsung ke perangkat (folder Unduhan/JEJAKRUTE).\n• Privasi trek per rekaman: samarkan 200 m awal & akhir pada salinan yang dibagikan (bawaan hidup, mengikuti setelan privasi).\n• Keamanan obrolan offline (mesh) diperkuat; riwayat obrolan kini terenkripsi.\n• Lokasi usulan komunitas yang disetujui moderator langsung tampil di Jelajah, lengkap dengan garis rutenya di peta.\n• Bagikan Rute Komunitas digabung ke Impor Peta GPX di Jelajah — satu toggle: Import GPX | Bagikan Rute Komunitas.\n• Semua tab kini bisa digulir sampai bawah; tidak ada lagi konten tertimpa bar navigasi.\n• Pemeriksaan integritas (SHA-256) pada unduhan pembaruan.",
   "wajib": false,
-  "sha256": "3712f32fe108865d91f1d1c26820bb1eedf6611cce6511404070094257830650"
+  "sha256": "d85e7f5da01f6aa00823020983d8838f2f12b69f2097b0d396858e7e66cdb901"
 }
